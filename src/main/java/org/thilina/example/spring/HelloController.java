@@ -15,7 +15,7 @@ public class HelloController {
 
     @RequestMapping("/")
     String hello() {
-        return "Hello World!";
+        return "Welcome to CloudOps Workshop";
     }
 
     @Data
